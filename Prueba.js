@@ -41,3 +41,12 @@ var cabezeras ={
   //forzando el display none
   document.getElementById('RC_concepto_t').style.display='block';
  
+
+/*------------------------------------------/
+/   REQUIERE USAR LA FUNCION 
+/------------------------------------------*/
+
+//en esta funcion se puede agregar mas datos y acciones cuango se guarde en BD
+async function onGuardar(idTabla){
+  
+}
